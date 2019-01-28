@@ -2,4 +2,5 @@
 
 ```
 brew cleanup
+nvm cache clear
 ```
